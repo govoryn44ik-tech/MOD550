@@ -1,0 +1,32 @@
+
+Readme.md: Very theatrical intro :) A few words abut what your repo contains might also help!
+
+Task 1: It seems ok
+Task 2: It seems ok
+Task 3: It seems ok
+Task 4: It seems ok
+Task 5: It seems ok
+Task 6: It seems ok
+Task 7: It seems ok
+Task 8: It seems ok
+Task 9: It seems ok
+
+Task 10 a: insufficient
+Task 10 b: insufficient
+Task 10 c: insufficient
+Task 10 d: insufficient
+Task 10 e: insufficient
+
+Commentis:
+==========
+
+python : use pylint for detailed suggstions, overall it is iokish. Docstring ompletely missing. I do not have a map to know what data_aquisition and data_model does. I can assume it, surely, but the idea was to use the notebook to showcase the usage of the various functions and test them directly if they work. With such unstructured format, it would take me a lot of time to go into details in your assignement, check if the various function do what you expect and so on.
+Also because iyou start from data stored in 
+da = DataAcquisition(r"C:\Users\govor\anaconda_projects\0d779c97-41ae-4743-8a08-902a13153742\wine_quality.csv")
+which I clearly don't have and even if I did, I do not want to have to modify your code to understand if what you did is ok.
+Jupyter notebook: A bit short and messy. In a work settings, they would just like to see plots and short discussion around it. For a general presentation of your wrk, you could pip it up using markdown for instance (and many plots). 
+
+
+The task here was to GENERATE DATA first and THEN apply different ML algorithm. The intent of this task was to make you familiar with a set of techniques, applied to your generated numbers such that you can have control of what comes in and thus, what you can expect out. I wrote it clearly in the assignment and repeated multipel times in class.
+
+For the exam, make sure to fix this assignemnt, work on your own generated data and arrive to a good discussion for all the items of point 10.
